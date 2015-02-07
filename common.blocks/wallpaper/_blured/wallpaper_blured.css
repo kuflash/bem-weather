@@ -1,0 +1,6 @@
+.wallpaper_blured {
+  width: 110%;
+  height: 100%;
+  margin-left: -5%;
+  filter: blur(30px);
+}

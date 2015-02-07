@@ -1,0 +1,5 @@
+.header__right-side {
+  flex: 1 1 50%;
+  display: flex;
+  justify-content: flex-end;
+}

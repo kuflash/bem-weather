@@ -1,0 +1,16 @@
+.search-form__controls {
+  position: relative;
+  padding-right: 68px;
+}
+
+.search-form__controls .input {
+  width: 100%;
+}
+
+.search-form__controls .input__control {
+  border-radius: 3px 0 0 3px;
+}
+
+.search-form__controls .button {
+  position: absolute;
+}

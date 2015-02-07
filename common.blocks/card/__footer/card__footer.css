@@ -1,0 +1,5 @@
+.card__footer {
+  flex: 0 0 20%;
+  background: rgba(255, 255, 255, 0.8);
+  z-index: 1;
+}
